@@ -1,5 +1,5 @@
 # macBatteryAllert
-Quick automator apple script to get the battery allert and show a message window to allert the user when battery falls below critical levels
+Quick automator apple script to get a battery allert and show a message window to allert the user when battery falls below critical levels
 
 ## Installation
 Create an automator application
